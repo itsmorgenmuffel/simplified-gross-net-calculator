@@ -6,7 +6,6 @@
 ///              Net Salary = Gross Salary - SV -LSt
 /// Author: Levani Samkharadze
 //----------------------------------------------------------------------------------------------------------------------
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
